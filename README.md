@@ -141,7 +141,7 @@ python 08_test_kserve.py
 
 # Kiali Graph for the Predictor
 
-![](./images/02_kiali_graph.png)
+![](./images/02_kiali_graph1.png)
 
 
 # GPU Usage
